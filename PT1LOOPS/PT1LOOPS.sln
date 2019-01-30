@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT1LOOPS", "PT1LOOPS\PT1LOOPS.csproj", "{7FCEC220-A11C-4338-90D7-933E0B4C1F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCEC220-A11C-4338-90D7-933E0B4C1F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCEC220-A11C-4338-90D7-933E0B4C1F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCEC220-A11C-4338-90D7-933E0B4C1F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCEC220-A11C-4338-90D7-933E0B4C1F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9287BB2C-48DC-49AC-8BE2-C13494F51FFA}
+	EndGlobalSection
+EndGlobal
