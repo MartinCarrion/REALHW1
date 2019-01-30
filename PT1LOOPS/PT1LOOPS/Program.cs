@@ -37,6 +37,7 @@ namespace PT1LOOPS
                     
 
                 }
+                Console.WriteLine("git remote add origin https://github.com/MartinCarrion/THEHW1.git git push - u origin master");
 
 
 
